@@ -41,7 +41,7 @@ my_df %>% count(lang)
 # reduce to just ita - ridurre solo a lingua italiano
 my_df <- my_df %>% filter(lang == "it")
 
-# remove the info on language (now useless) - si rimuove la colonna perchè inutile perchè è già tutto in italiano
+# remove the info on language (now useless) - si rimuove la colonna perchè inutile poichè è già tutto in italiano
 my_df$lang <- NULL
 
 #ora ho il dataframe con tutti i tweets solo in italiano
