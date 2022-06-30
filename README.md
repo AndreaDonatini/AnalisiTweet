@@ -9,3 +9,5 @@ Si prendono i file .csv scaricati con i tweets e si preparano alle analisi con g
 Con lo script "3_SA_2" grazie a syuzhet si effettua una sentiment analysis dei tweets, e come risultato si hanno due modelli di grafici che riportano le 8 emozioni base.
 
 Con lo script "4_SA_advanced_2" grazie a syuzhet si effettua una sentiment analysis dei tweets, e inoltre si va a creare un grafico che mostra in che ora le persone hanno twittato maggiormente. 
+
+All'interno degli scripts è spiegato ogni passaggio che viene svolto per arrivare al risultato. 
