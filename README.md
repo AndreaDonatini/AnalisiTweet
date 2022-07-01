@@ -2,6 +2,7 @@
 
 In questo Repository si possono trovare tutti i comandi per scaricare tweets e analizzarli con la sentiment analysis ottenendo dei grafici come risultati. 
 
+## Passaggi da svolgere
 Inizialmente si scaricano tweets con lo script di python "0_Twitter_API.ipynb.
 
 Si prendono i file .csv scaricati con i tweets e si preparano alle analisi con gli scripts "1_SA_prepare_1file" e "2_SA_prepare_allfiles", così vengono trasformati in file .RData per poter essere analizzati con la sentiment analysis. 
